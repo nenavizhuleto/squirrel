@@ -2,7 +2,6 @@ package squirrel
 
 import (
 	"bytes"
-	"fmt"
 	"strconv"
 	"strings"
 )
